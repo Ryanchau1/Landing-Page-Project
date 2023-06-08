@@ -47,7 +47,7 @@
     font-size: 18px;
     font-weight: bolder;
     width: 8em;
-    height: 2em;
+    height: 1.5em;
     border-radius: 5px;
     cursor: pointer;
     box-shadow: 0  0  10px ;
@@ -218,4 +218,10 @@ h2 {
 
 .footer {
     text-align: center;
+}
+
+.readme {
+    color: #fefffe;
+    font-weight: bolder;
+    padding: 2em;
 }
