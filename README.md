@@ -5,3 +5,6 @@ This project will have muultiple iteration as I improve on my skills and add mor
 Complete of template v1. 05/03/2023.
 Thank you for taking the time to look at this quick template, I've put together.
 - Ryan Chau
+
+Templated Update 06/08/2023
+New pages template were added such as sig-in,forgot password, registeration, and a basic homepage.
